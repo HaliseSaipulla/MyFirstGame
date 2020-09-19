@@ -34,3 +34,6 @@ elif age>=14:
     print("You can play with supervision")
 else:
   print("You are not old enough to play...")
+
+
+  print('fkgkjfk')
